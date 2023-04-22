@@ -7,11 +7,11 @@ const Header = () => {
       <div className="logo">
         <h3>Meal Meet</h3>
       </div>
-        <div className="App">
-            <Button variant="contained" color="primary">
-                テスト
-            </Button>
-        </div>
+      <div className="App">
+          <Button variant="contained" color="primary">
+              テスト
+          </Button>
+      </div>
     </header>
   )
 }
