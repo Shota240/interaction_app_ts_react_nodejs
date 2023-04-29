@@ -5,4 +5,5 @@ This repository is madefor my react and typescript learning. Also made for devel
 ## What's the tech
 docker based react + typescript + nodejs + mysql application.
 
+cd client yarn ?
 docker-compose up -d --build
