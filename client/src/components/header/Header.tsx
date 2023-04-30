@@ -9,7 +9,7 @@ const Header = () => {
       </div>
       <div className="App">
           <Button variant="contained" color="primary">
-              テスト
+              Material UIで作成したテストボタン
           </Button>
       </div>
     </header>
